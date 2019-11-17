@@ -1,0 +1,35 @@
+{
+  "development": {
+    "username": "rkdtrywhventni",
+    "password": "86851c61aa7e48f5365034cfdff80c3714a14fb49907fc264cd87f434ed5dbea",
+    "database": "d6dsrit2s1lv87",
+    "host": "ec2-174-129-253-63.compute-1.amazonaws.com",
+    "dialect": "postgres",
+    "define": {
+      "schema": "demo"
+    },
+    "ssl":true,
+    "dialectOptions":{
+        "ssl":{
+          "require":true
+        }
+    },
+    "migrationStorageTableSchema": "demo"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}

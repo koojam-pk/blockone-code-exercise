@@ -1,0 +1,11 @@
+{
+    "env": {
+        "PORT": "5000",
+        "DBHOST": "ec2-174-129-253-63.compute-1.amazonaws.com",
+        "DBPORT": "5432",
+        "DBNAME": "d6dsrit2s1lv87",
+        "DBUSER": "rkdtrywhventni",
+        "DBPWD": "86851c61aa7e48f5365034cfdff80c3714a14fb49907fc264cd87f434ed5dbea",
+        "DBSCHEMA": "demo"
+    }
+}
