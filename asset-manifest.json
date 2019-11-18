@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/blockone-code-exercise/static/css/main.c73d7172.chunk.css",
-    "main.js": "/blockone-code-exercise/static/js/main.acafee02.chunk.js",
-    "main.js.map": "/blockone-code-exercise/static/js/main.acafee02.chunk.js.map",
-    "runtime-main.js": "/blockone-code-exercise/static/js/runtime-main.d84d165d.js",
-    "runtime-main.js.map": "/blockone-code-exercise/static/js/runtime-main.d84d165d.js.map",
-    "static/js/2.9b770234.chunk.js": "/blockone-code-exercise/static/js/2.9b770234.chunk.js",
-    "static/js/2.9b770234.chunk.js.map": "/blockone-code-exercise/static/js/2.9b770234.chunk.js.map",
-    "index.html": "/blockone-code-exercise/index.html",
-    "precache-manifest.941ad5296120a2988203a9b8cf659161.js": "/blockone-code-exercise/precache-manifest.941ad5296120a2988203a9b8cf659161.js",
-    "service-worker.js": "/blockone-code-exercise/service-worker.js",
-    "static/css/main.c73d7172.chunk.css.map": "/blockone-code-exercise/static/css/main.c73d7172.chunk.css.map"
+    "main.css": "/blockone-code-exercise/index.html/static/css/main.c73d7172.chunk.css",
+    "main.js": "/blockone-code-exercise/index.html/static/js/main.0c25a9e7.chunk.js",
+    "main.js.map": "/blockone-code-exercise/index.html/static/js/main.0c25a9e7.chunk.js.map",
+    "runtime-main.js": "/blockone-code-exercise/index.html/static/js/runtime-main.96ec96a8.js",
+    "runtime-main.js.map": "/blockone-code-exercise/index.html/static/js/runtime-main.96ec96a8.js.map",
+    "static/js/2.3349f53f.chunk.js": "/blockone-code-exercise/index.html/static/js/2.3349f53f.chunk.js",
+    "static/js/2.3349f53f.chunk.js.map": "/blockone-code-exercise/index.html/static/js/2.3349f53f.chunk.js.map",
+    "index.html": "/blockone-code-exercise/index.html/index.html",
+    "precache-manifest.fd09205f432db6b7e923fe3cc5c1c0cb.js": "/blockone-code-exercise/index.html/precache-manifest.fd09205f432db6b7e923fe3cc5c1c0cb.js",
+    "service-worker.js": "/blockone-code-exercise/index.html/service-worker.js",
+    "static/css/main.c73d7172.chunk.css.map": "/blockone-code-exercise/index.html/static/css/main.c73d7172.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.d84d165d.js",
-    "static/js/2.9b770234.chunk.js",
+    "static/js/runtime-main.96ec96a8.js",
+    "static/js/2.3349f53f.chunk.js",
     "static/css/main.c73d7172.chunk.css",
-    "static/js/main.acafee02.chunk.js"
+    "static/js/main.0c25a9e7.chunk.js"
   ]
 }
