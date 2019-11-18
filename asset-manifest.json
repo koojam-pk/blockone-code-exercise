@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/blockone-code-exercise/static/css/main.c73d7172.chunk.css",
-    "main.js": "/blockone-code-exercise/static/js/main.3a195b3c.chunk.js",
-    "main.js.map": "/blockone-code-exercise/static/js/main.3a195b3c.chunk.js.map",
+    "main.js": "/blockone-code-exercise/static/js/main.0c25a9e7.chunk.js",
+    "main.js.map": "/blockone-code-exercise/static/js/main.0c25a9e7.chunk.js.map",
     "runtime-main.js": "/blockone-code-exercise/static/js/runtime-main.d84d165d.js",
     "runtime-main.js.map": "/blockone-code-exercise/static/js/runtime-main.d84d165d.js.map",
     "static/js/2.3349f53f.chunk.js": "/blockone-code-exercise/static/js/2.3349f53f.chunk.js",
     "static/js/2.3349f53f.chunk.js.map": "/blockone-code-exercise/static/js/2.3349f53f.chunk.js.map",
     "index.html": "/blockone-code-exercise/index.html",
-    "precache-manifest.6244a60f195b3815337dfe067a6deaf6.js": "/blockone-code-exercise/precache-manifest.6244a60f195b3815337dfe067a6deaf6.js",
+    "precache-manifest.9f6b4686119de4a217b2005ec4e90742.js": "/blockone-code-exercise/precache-manifest.9f6b4686119de4a217b2005ec4e90742.js",
     "service-worker.js": "/blockone-code-exercise/service-worker.js",
     "static/css/main.c73d7172.chunk.css.map": "/blockone-code-exercise/static/css/main.c73d7172.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.d84d165d.js",
     "static/js/2.3349f53f.chunk.js",
     "static/css/main.c73d7172.chunk.css",
-    "static/js/main.3a195b3c.chunk.js"
+    "static/js/main.0c25a9e7.chunk.js"
   ]
 }
