@@ -14,7 +14,7 @@ const store = createStore(reducers, {}, applyMiddleware(reduxThunk));
 
 const MyAppWithStore = () => (
   <Provider store={store}>
-    <BrowserRouter>
+    <BrowserRouter basename='/'>
       <App />
     </BrowserRouter>
   </Provider>
